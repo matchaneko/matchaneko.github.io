@@ -12,3 +12,7 @@ font-family: 'Noto Sans TC', sans-serif;
 font-size:1.2rem;
 text-transform:none;
 }
+.bg-primary{
+background-color: #005878!important;
+background-image: url("../img/brushed-alum.png");
+}
